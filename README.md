@@ -56,8 +56,8 @@ Além disso, desenvolvo interfaces modernas e responsivas com foco em performanc
 ## 🌐 Conecte-se comigo
 
 [![Instagram](https://img.shields.io/badge/@franciscodorscheidt-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/franciscodorscheidt)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)  
-[![Blog](https://img.shields.io/badge/Blog-Marketing%20Digital-blue)](https://seublog.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](linkedin.com/in/franciscodorscheidt)  
+[![Blog](https://img.shields.io/badge/Blog-Marketing%20Digital-blue)]([https://seublog.com](https://midiasocialpro.blogspot.com/))  
 [![Portfólio](https://img.shields.io/badge/Portfólio-online-green)](https://seuportifolio.com)  
 
 ---
