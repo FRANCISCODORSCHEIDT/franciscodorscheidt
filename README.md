@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Francisco Giovani Bettim Dutra Dorscheidt!
+# 👋 Olá, eu sou o Francisco Dorscheidt!
 
 🎯 Empreendedor Digital | 💻 Desenvolvedor Front-End Freelancer | 📈 Consultor em Marketing Digital  
 🎥 Pós-produção de Vídeos | 📊 Analista de Dados | ⚡ Criador de Soluções Automatizadas
