@@ -36,11 +36,11 @@ Além disso, desenvolvo interfaces modernas e responsivas com foco em performanc
 
 ## 📚 Certificações & Estudos
 
-- 🚀 Imersão Front-End | Alura (2025)
-- 🧠 Estratégias de Motivação de Equipes | PUCRS (2023)
-- ⚡ Eletricista de Redes de Distribuição | SENAI-RS (2023)
-- 🎬 Edição de Vídeo | Senac RS (2014)
-- 🎓 Engenharia de Produção (em andamento) | FURG
+- 🚀 Imersão Front-End | Alura (2025)  
+- 🧠 Estratégias de Motivação de Equipes | PUCRS (2023)  
+- ⚡ Eletricista de Redes de Distribuição | SENAI-RS (2023)  
+- 🎬 Edição de Vídeo | Senac RS (2014)  
+- 🎓 Engenharia de Produção (em andamento) | FURG  
 
 ---
 
@@ -55,10 +55,10 @@ Além disso, desenvolvo interfaces modernas e responsivas com foco em performanc
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
-[![Instagram](https://img.shields.io/badge/@francisco.marketing-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/francisco.marketing)
-[![Blog](https://img.shields.io/badge/Blog-Marketing%20Digital-blue)](https://seublog.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-online-green)](https://seuportifolio.com)
+[![Instagram](https://img.shields.io/badge/@franciscodorscheidt-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/franciscodorscheidt)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)  
+[![Blog](https://img.shields.io/badge/Blog-Marketing%20Digital-blue)](https://seublog.com)  
+[![Portfólio](https://img.shields.io/badge/Portfólio-online-green)](https://seuportifolio.com)  
 
 ---
 
