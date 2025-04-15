@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Francisco Dorscheidt!
+# 👋 Olá, eu sou o Francisco Giovani Bettim Dutra Dorscheidt!
 
 🎯 Empreendedor Digital | 💻 Desenvolvedor Front-End Freelancer | 📈 Consultor em Marketing Digital  
 🎥 Pós-produção de Vídeos | 📊 Analista de Dados | ⚡ Criador de Soluções Automatizadas
@@ -39,4 +39,28 @@ Além disso, desenvolvo interfaces modernas e responsivas com foco em performanc
 - 🚀 Imersão Front-End | Alura (2025)  
 - 🧠 Estratégias de Motivação de Equipes | PUCRS (2023)  
 - ⚡ Eletricista de Redes de Distribuição | SENAI-RS (2023)  
-- 🎬 Edição de Vídeo | Senac RS
+- 🎬 Edição de Vídeo | Senac RS (2014)  
+- 🎓 Engenharia de Produção (em andamento) | FURG  
+
+---
+
+## 🧩 Projetos em Destaque
+
+- **Automação de Marketing com Google Sheets & Zapier**  
+- **Funis de Vendas Simples com IA & Email Marketing**  
+- **Sites institucionais com React e SEO otimizado**  
+*(Veja os repositórios abaixo! 👇)*
+
+---
+
+## 🌐 Conecte-se comigo
+
+[![Instagram](https://img.shields.io/badge/@franciscodorscheidt-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/franciscodorscheidt)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscodorscheidt)  
+[![Blog](https://img.shields.io/badge/Blog-Mídia%20Social%20Pro-blue)](https://midiasocialpro.blogspot.com)  
+[![Portfólio](https://img.shields.io/badge/Portfólio-online-green)](https://seuportifolio.com)  
+
+---
+
+> _"Crescimento sustentável e conhecimento contínuo são os pilares do futuro digital."_ 🚀
+
